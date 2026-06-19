@@ -45,6 +45,9 @@ Analyzes log files and detects important events.
 * Multithreading
 * File Handling
 
+### Network IDS
+Detects suspicious open ports and generates intrusion alerts using Python.
+
 ## Author
 
 Anish Narigra
